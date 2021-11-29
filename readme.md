@@ -2,7 +2,7 @@
 
 # Installation 
 
-- git clone https://github.com/adams0088/restaurant.git
+- git clone https://github.com/creaspo23/sudani-Agent-system.git
 
 - composer install 
 
