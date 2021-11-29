@@ -1,4 +1,4 @@
-# Restaurant management system 
+# sudani management system 
 
 # Installation 
 
@@ -12,4 +12,4 @@
 username : super
 password : 123456
 
-# Quick-app
+
